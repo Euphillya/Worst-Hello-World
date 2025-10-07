@@ -1,6 +1,6 @@
-# Worthless Hello World
+# Worst Hello World
 
-**Worthless Hello World** is a project with a very simple goal:
+**Worst Hello World** is a project with a very simple goal:
 **display "hello world" on the screen — but using the worst code possible.**
 
 No readability.
@@ -52,3 +52,4 @@ If you see **"hello world"**, congratulations — you have successfully wasted y
 * Every new way to display **`hello world`** must be **more absurd than the previous one**.
 * If your code is **readable**, **understandable**, or **logical**, **your PR will be rejected automatically**.
 * If you’re proud of your code, you didn’t get the point.
+
