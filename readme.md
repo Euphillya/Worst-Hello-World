@@ -34,7 +34,7 @@ Compile:
 Run:
 
 ```bash
-java -jar build/libs/WorthlessHelloWorld-1.0-SNAPSHOT.jar
+java -jar build/libs/WorstHelloWorld-1.0-SNAPSHOT.jar
 ```
 
 If you see **"hello world"**, congratulations — you have successfully wasted your time.
@@ -52,4 +52,5 @@ If you see **"hello world"**, congratulations — you have successfully wasted y
 * Every new way to display **`hello world`** must be **more absurd than the previous one**.
 * If your code is **readable**, **understandable**, or **logical**, **your PR will be rejected automatically**.
 * If you’re proud of your code, you didn’t get the point.
+
 
